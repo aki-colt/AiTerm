@@ -34,6 +34,7 @@ export PATH=$PATH:$(go env GOPATH)/bin
 - **Go**: 1.22 or later
 - **tmux**: Required for pane splitting and command execution
 - **Terminal**: A terminal emulator supporting ANSI colors and keyboard input
+- **Platform**: AiTerm only supports for unix-like system such as linux or macos for now.
 
 ## Quick Start
 
@@ -163,6 +164,7 @@ aiterm/
 - Enhance UI with color-coded messages or a status bar.
 - Add unit tests for configuration and tmux logic.
 - Support configuration via environment variables.
+- Support windows system.
 
 ## License
 
