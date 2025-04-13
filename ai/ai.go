@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/colt-halden/aiterm/terminal"
+	"github.com/aki-colt/aiterm/terminal"
 	"github.com/openai/openai-go"
 	"github.com/openai/openai-go/option"
 	"github.com/rivo/tview"

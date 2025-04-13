@@ -10,8 +10,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/colt-halden/aiterm/ai"
-	"github.com/colt-halden/aiterm/terminal"
+	"github.com/aki-colt/aiterm/ai"
+	"github.com/aki-colt/aiterm/terminal"
 	"github.com/gdamore/tcell/v2"
 	"github.com/rivo/tview"
 	"gopkg.in/ini.v1"

@@ -1,4 +1,4 @@
-module github.com/colt-halden/aiterm
+module github.com/aki-colt/aiterm
 
 go 1.22.2
 
